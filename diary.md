@@ -1,5 +1,5 @@
 ---
-title: 끄적끄적
+title: 요약
 layout: page
 permalink: /diary
 ---
