@@ -1,5 +1,5 @@
 ---
-title: index
+title: /
 layout: home
 permalink: /
 ---
